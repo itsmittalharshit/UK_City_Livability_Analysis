@@ -1,0 +1,77 @@
+City,AQI,Air_Quality_Score
+Aberdeen,27,0.866
+Armagh,11,0.948
+Bangor (NI),21,0.897
+Bangor (W),24,0.881
+Bath,9,0.959
+Belfast,9,0.959
+Birmingham,13,0.938
+Bradford,13,0.938
+Brighton and Hove,12,0.943
+Bristol,30,0.851
+Cambridge,30,0.851
+Canterbury,23,0.887
+Cardiff,24,0.881
+Carlisle,46,0.768
+Chelmsford,2,0.995
+Chester,43,0.784
+Chichester,22,0.892
+City of London,38,0.809
+City of Westminster,38,0.809
+Colchester,21,0.897
+Coventry,25,0.876
+Derby,195,0
+Derry,26,0.871
+Doncaster,10,0.954
+Dundee,18,0.912
+Dunfermline,32,0.84
+Durham,42,0.789
+Edinburgh,39,0.804
+Ely,27,0.866
+Exeter,2,0.995
+Glasgow,56,0.716
+Gloucester,22,0.892
+Hereford,24,0.881
+Inverness,31,0.845
+Kingston upon Hull,24,0.881
+Lancaster,30,0.851
+Leeds,26,0.871
+Leicester,23,0.887
+Lichfield,32,0.84
+Lincoln,53,0.732
+Lisburn,8,0.964
+Liverpool,32,0.84
+Manchester,24,0.881
+Milton Keynes,21,0.897
+Newcastle,33,0.835
+Newport,29,0.856
+Newry,1,1
+Norwich,25,0.876
+Nottingham,9,0.959
+Oxford,25,0.876
+Perth,22,0.892
+Peterborough,58,0.706
+Plymouth,34,0.83
+Portsmouth,27,0.866
+Preston,35,0.825
+Ripon,38,0.809
+Salford,36,0.82
+Salisbury,24,0.881
+Sheffield,22,0.892
+Southampton,32,0.84
+Southend-on-Sea,25,0.876
+St Albans,47,0.763
+St Asaph,37,0.814
+St Davids,35,0.825
+Stirling,30,0.851
+Stoke-on-Trent,24,0.881
+Sunderland,32,0.84
+Swansea,30,0.851
+Truro,29,0.856
+Wakefield,35,0.825
+Wells,29,0.856
+Winchester,33,0.835
+Wolverhampton,27,0.866
+Worcester,38,0.809
+Wrexham,15,0.928
+York,17,0.918
