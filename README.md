@@ -1,11 +1,11 @@
 # UK_City_Livability_Analysis
--> The author collected the data and visualize different parameters to find best and worst cities to live in United Kingdom.
+* The author collected the data and visualize different parameters to find best and worst cities to live in United Kingdom.
 
--> It compare total 76 places officialy stated as cities by the crown by their popularity which are:
+* It compare total 76 places officialy stated as cities by the crown by their popularity which are:
 
 'Aberdeen', 'Armagh', 'Bangor(NI)', 'Bangor(W)', 'Bath', 'Belfast', 'Birmingham', 'Bradford', 'Brighton and Hove', 'Bristol', 'Cambridge', 'Canterbury', 'Cardiff', 'Carlisle', 'Chelmsford', 'Chester', 'Chichester', 'City of London', 'City of Westminster', 'Colchester', 'Coventry', 'Derby', 'Derry', 'Doncaster', 'Dundee', 'Dunfermline', 'Durham', 'Edinburgh', 'Ely', 'Exeter', 'Glasgow', 'Gloucester', 'Hereford', 'Inverness', 'Kingston upon Hull', 'Lancaster', 'Leeds', 'Leicester', 'Lichfield', 'Lincoln', 'Lisburn', 'Liverpool', 'Manchester', 'Milton Keynes', 'Newcastle', 'Newport', 'Newry', 'Norwich', 'Nottingham', 'Oxford', 'Perth', 'Peterborough', 'Plymouth', 'Portsmouth', 'Preston', 'Ripon', 'Salford', 'Salisbury', 'Sheffield', 'Southampton', 'Southend-on-Sea', 'St Albans', 'St Asaph', 'St Davids', 'Stirling', 'Stoke-on-Trent', 'Sunderland', 'Swansea', 'Truro', 'Wakefield', 'Wells', 'Winchester', 'Wolverhampton', 'Worcester', 'Wrexham', 'York'.
 
--> The parameters on which cities are compared are:
+* The parameters on which cities are compared are:
 
 'Population' : 'Population', 'Population Density', Scores: Bell Shaped(Gaussian) function around ideal population density.
 
@@ -19,5 +19,13 @@
 
 'Healthcare': 'Major_Hospital_Density', 'Major_Pharmacy_density', Scores: Normalization and adding weights for each parameter according to importance.
 
--> Analysis can be viewed in 
+* Analysis can be viewed in DS_Analytics.ipynb.
+
+* Sources:
+1. Office for National Statistics Data.
+2. GeoCode Library
+3. OpenStreetMap
+4. QS and Times Ranking
+5. UK police Data
+6. WQAI
 
