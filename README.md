@@ -1,4 +1,5 @@
 # UK_City_Livability_Analysis
+* Citation:  Mittal, H. (2025). UK Cities Livability Analysis [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17274373
 * The author collected the data and visualize different parameters to find best and worst cities to live in United Kingdom.
 
 * It compare total 76 places officialy stated as cities by the crown by their popularity which are:
