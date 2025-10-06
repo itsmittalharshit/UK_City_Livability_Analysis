@@ -19,3 +19,5 @@
 
 'Healthcare': 'Major_Hospital_Density', 'Major_Pharmacy_density', Scores: Normalization and adding weights for each parameter according to importance.
 
+-> Analysis can be viewed in 
+
